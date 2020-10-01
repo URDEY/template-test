@@ -1,0 +1,7 @@
+https://cdnjs.com/libraries/ContentTools
+
+
+https://cdnjs.com/libraries/font-awesome
+
+
+https://css-tricks.com/favicons-next-to-external-links/
